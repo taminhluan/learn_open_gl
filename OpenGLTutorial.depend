@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1611748370 source:/home/luantm/Documents/OpenGLTutorialProject/OpenGLTutorial/main.cpp
+	<iostream>
+	<GL/glew.h>
+	"include/display.h"
+	"shader.h"
+	"mesh.h"
+
+1611296426 /home/luantm/Documents/OpenGLTutorialProject/OpenGLTutorial/include/display.h
+	<string>
+	<iostream>
+	<SDL2/SDL.h>
+
+1611296545 source:/home/luantm/Documents/OpenGLTutorialProject/OpenGLTutorial/src/display.cpp
+	"../include/display.h"
+	<GL/glew.h>
+
+1611740060 /home/luantm/Documents/OpenGLTutorialProject/OpenGLTutorial/include/shader.h
+	<iostream>
+	<string>
+	<GL/glew.h>
+	<fstream>
+
+1611739985 source:/home/luantm/Documents/OpenGLTutorialProject/OpenGLTutorial/src/shader.cpp
+	"shader.h"
+
+1611748844 /home/luantm/Documents/OpenGLTutorialProject/OpenGLTutorial/include/mesh.h
+	<glm/glm.hpp>
+	<GL/glew.h>
+
